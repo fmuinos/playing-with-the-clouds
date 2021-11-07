@@ -4,8 +4,26 @@ Playins with the clouds. Fun in a big way.
 **Microsoft AZURE is the cloud selected.**
 
 ## Task TODO
-- [] VM
-- [] 
+- [X] VM
+- [X] ARM Templates
+- [] Containers
+- [] App service web ASP.NET
+- [] Enable diagnostics logging
+- [] Azure functions
+- [] Cosmos DB API
+- [] Blob Storate Client
+- [] Implement Secure Application
+- [] Key Vaults
+- [] Managed Identities
+- [] Microsoft Grapth
+- [] Integrading CDN
+- [] Monitoring and loging.
+- [] Insights web test and alers.
+- [] API Management and third-party services
+- [] Develop event grid.
+- [] Develop event hubs
+- [] Message based and azure service bus
+- [] Azure Queues.
 
 ## Deploy a new VM. Steps:
 1. Create a resource group or use existing resource group.
