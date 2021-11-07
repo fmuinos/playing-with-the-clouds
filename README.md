@@ -6,7 +6,7 @@ Playins with the clouds. Fun in a big way.
 ## Task TODO
 - [X] VM
 - [X] ARM Templates
-- [ ] Containers
+- [X] Containers
 - [ ] App service web ASP.NET
 - [ ] Enable diagnostics logging
 - [ ] Azure functions
